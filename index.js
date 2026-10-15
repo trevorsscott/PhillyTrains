@@ -672,7 +672,7 @@
 		
 		api.trains.registerTrainType({
 			id: "ACS-AM",
-			name: "ACS-AM with Amfleet Is",
+			name: "ACS-64 with Amfleet Is",
 			description: "The Siemens Amtrak Cities Sprinter, introduced in 2014, is based on the EuroSprinter & the Vectron platforms. This trainset carries passengers with Budd Amfleet I cars as used by Amtrak on their Northeast Regional & Keystone services.",
 			stats: {
 				maxSpeed: 60.28,
