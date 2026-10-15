@@ -7,7 +7,5 @@
         "name": "deskjockey"
     },
     "main": "index.js",
-    "dependencies": {
-        "subway-builder": ">=1.7.10"
-    }
+    "dependencies": {  "subway-builder": ">=1.7.10"  }
 }
