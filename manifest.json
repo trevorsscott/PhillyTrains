@@ -1,0 +1,10 @@
+{
+    "id": "PhillyTrains",
+    "name": "PhillyTrains",
+    "description": "Features the trains of the lower Delaware Valley: subway, streetcar, regional rail & whatever the NHSL is",
+    "version": "1.0.0",
+    "author": {
+        "name": "deskjockey"
+    },
+    "main": "index.js"
+}
