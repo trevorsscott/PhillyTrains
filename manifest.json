@@ -6,5 +6,8 @@
     "author": {
         "name": "deskjockey"
     },
-    "main": "index.js"
+    "main": "index.js",
+    "dependencies": {
+        "subway-builder": ">=1.7.10"
+    }
 }
